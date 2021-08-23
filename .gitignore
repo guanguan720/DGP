@@ -1,0 +1,12 @@
+*.zip
+*.rar
+*.pdf
+!exercise.pdf
+*.obj
+*.mp4
+*.assets
+*.md
+mesh
+Surface_Framework_VS2017
+Surface-Mesh-Framework
+107_models
