@@ -4,7 +4,6 @@
 !exercise.pdf
 *.obj
 *.mp4
-*.gif
 *.assets
 !/README.assets
 *.md
