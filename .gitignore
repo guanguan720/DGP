@@ -4,8 +4,11 @@
 !exercise.pdf
 *.obj
 *.mp4
+*.gif
 *.assets
+!/README.assets
 *.md
+!/README.md
 mesh
 Surface_Framework_VS2017
 Surface-Mesh-Framework
