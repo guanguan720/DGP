@@ -40,21 +40,21 @@
 
 ## 06 . Mesh deformation
 
-![deformation](README.assets/deformation.gif)
+<img src="README.assets/deformation.gif" alt="deformation" style="zoom: 50%;" />
 
 
 
 ## 07 . Mean value coordinate parameterization
 
-|                        original mesh                         | Tutte mesh parameterization                                  |            mean value coordinate parameterization            |
-| :----------------------------------------------------------: | ------------------------------------------------------------ | :----------------------------------------------------------: |
+|                        original mesh                         |                 Tutte mesh parameterization                  |            mean value coordinate parameterization            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | <img src="README.assets/2021-12-20 22-46-19 的屏幕截图.png" alt="2021-12-20 22-46-19 的屏幕截图"  /> | <img src="README.assets/image-20210423171324512.png" alt="image-20210423171324512" style="zoom: 50%;" /> | <img src="README.assets/image-20210423171440414.png" alt="image-20210423171440414" style="zoom:50%;" /> |
 
 ​                                                                
 
 ## 08 . Mesh interpolation
 
-![mesh_interpolation](README.assets/mesh_interpolation.gif)
+<img src="README.assets/mesh_interpolation.gif" alt="mesh_interpolation" style="zoom:67%;" />
 
 
 
